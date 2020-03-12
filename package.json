@@ -1,5 +1,5 @@
 {
-  "name": "react-native-flip-countdown-timer",
+  "name": "react-native-flip-countdown-timer-custom",
   "version": "0.0.3",
   "description": "A Flip countdown timer implementation in React Native",
   "main": "dist/react-native-flip-countdown-timer.cjs.js",
